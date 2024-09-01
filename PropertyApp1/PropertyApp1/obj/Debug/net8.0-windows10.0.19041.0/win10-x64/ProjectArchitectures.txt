@@ -1,1 +1,0 @@
-D:\FPT_Learning\MAUI\propertyMAUI\PropertyApp1\PropertyApp1\PropertyApp1.csproj;x64

@@ -71,8 +71,7 @@
               "RelativeToolTip": "PropertyApp1\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:03:41.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:03:41.34Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "PropertyApp1\\ViewModel\\DetailsViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:02:56.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:02:56.199Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "PropertyApp1\\ViewModel\\LandingViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T08:02:04.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T08:02:04.938Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "PropertyApp1\\ViewModel\\BaseViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-16T07:57:53.941Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T07:57:53.941Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "PropertyApp1\\View\\Details.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-16T07:56:41.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T07:56:41.935Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "PropertyApp1\\View\\LandingPage.xaml",
               "ViewState": "AQIAAC0AAAAAAAAAAAAUwBQAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-16T07:56:24.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-16T07:56:24.078Z"
             }
           ]
         }
